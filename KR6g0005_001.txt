@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:53.316326
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 大般涅槃經玄義
 #+PROPERTY: CBETA_ID T38n1765
 #+PROPERTY: ID KR6g0005
