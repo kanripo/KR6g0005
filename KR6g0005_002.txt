@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:53.351766
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:15
 #+TITLE: 大般涅槃經玄義
 #+PROPERTY: CBETA_ID T38n1765
 #+PROPERTY: ID KR6g0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1765
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0005_T_002-0008a> ¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 大般涅槃經玄義卷下¶
+大般涅槃經玄義卷下¶
 ¶
 隋天台沙門灌頂撰¶
 
